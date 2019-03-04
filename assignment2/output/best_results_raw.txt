@@ -1,0 +1,8 @@
+---------- NN ----------
+{'Backprop': {'best': 0.678899082569,
+              'files': ['output//NN_OUTPUT/NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.68, 'files': ['output//NN_OUTPUT/NN_GA_50_10_10_LOG.csv']},
+ 'RHC': {'best': 0.6336633663369999,
+         'files': ['output//NN_OUTPUT/NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.642857142857,
+        'files': ['output//NN_OUTPUT/NN_SA_0.55_LOG.csv']}}
